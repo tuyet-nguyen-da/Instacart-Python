@@ -1,4 +1,6 @@
 # Instacart-Python
+Conducting an initial exploratory analysis of their data to extract insights and propose enhanced segmentation strategies based on specified criteria
+
 
 ## KEY QUESTIONS AND OBJECTIVES
 Conducting an initial exploratory analysis of their data to extract insights and propose enhanced segmentation strategies based on specified criteria 
