@@ -3,7 +3,6 @@ Conducting an initial exploratory analysis of their data to extract insights and
 
 
 ## KEY QUESTIONS AND OBJECTIVES
-Conducting an initial exploratory analysis of their data to extract insights and propose enhanced segmentation strategies based on specified criteria 
 - Identify busiest days and hours for ad scheduling.
 - Discover high-spending timeframes for targeted product ads.
 - Simplify product price groups for focused marketing.
